@@ -11,12 +11,12 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages
-- Frameworks
+- FrameworksS
 - Technologies used
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://francoalexande.github.io/workins-with-texts-odin/)
 
 
 ## Getting Started
